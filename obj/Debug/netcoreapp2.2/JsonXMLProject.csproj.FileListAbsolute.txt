@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\JsonXMLProject\bin\Debug\netcoreapp2.2\JsonXMLProject.deps.json
+C:\Users\hp\source\repos\JsonXMLProject\bin\Debug\netcoreapp2.2\JsonXMLProject.runtimeconfig.json
+C:\Users\hp\source\repos\JsonXMLProject\bin\Debug\netcoreapp2.2\JsonXMLProject.runtimeconfig.dev.json
+C:\Users\hp\source\repos\JsonXMLProject\bin\Debug\netcoreapp2.2\JsonXMLProject.dll
+C:\Users\hp\source\repos\JsonXMLProject\bin\Debug\netcoreapp2.2\JsonXMLProject.pdb
+C:\Users\hp\source\repos\JsonXMLProject\obj\Debug\netcoreapp2.2\JsonXMLProject.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\JsonXMLProject\obj\Debug\netcoreapp2.2\JsonXMLProject.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\JsonXMLProject\obj\Debug\netcoreapp2.2\JsonXMLProject.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\JsonXMLProject\obj\Debug\netcoreapp2.2\JsonXMLProject.AssemblyInfo.cs
+C:\Users\hp\source\repos\JsonXMLProject\obj\Debug\netcoreapp2.2\JsonXMLProject.dll
+C:\Users\hp\source\repos\JsonXMLProject\obj\Debug\netcoreapp2.2\JsonXMLProject.pdb
